@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\bin\Debug\net8.0\Week14OOP.exe
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\bin\Debug\net8.0\Week14OOP.deps.json
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\bin\Debug\net8.0\Week14OOP.runtimeconfig.json
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\bin\Debug\net8.0\Week14OOP.dll
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\bin\Debug\net8.0\Week14OOP.pdb
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\obj\Debug\net8.0\Week14OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\obj\Debug\net8.0\Week14OOP.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\obj\Debug\net8.0\Week14OOP.AssemblyInfo.cs
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\obj\Debug\net8.0\Week14OOP.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\obj\Debug\net8.0\Week14OOP.dll
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\obj\Debug\net8.0\refint\Week14OOP.dll
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\obj\Debug\net8.0\Week14OOP.pdb
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\obj\Debug\net8.0\Week14OOP.genruntimeconfig.cache
+C:\Users\manni\source\repos\Week14OOP\Week14OOP\obj\Debug\net8.0\ref\Week14OOP.dll

@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\Week14OOP\N14TK01\bin\Debug\net8.0\N14TK01.exe
+C:\Users\manni\source\repos\Week14OOP\N14TK01\bin\Debug\net8.0\N14TK01.deps.json
+C:\Users\manni\source\repos\Week14OOP\N14TK01\bin\Debug\net8.0\N14TK01.runtimeconfig.json
+C:\Users\manni\source\repos\Week14OOP\N14TK01\bin\Debug\net8.0\N14TK01.dll
+C:\Users\manni\source\repos\Week14OOP\N14TK01\bin\Debug\net8.0\N14TK01.pdb
+C:\Users\manni\source\repos\Week14OOP\N14TK01\obj\Debug\net8.0\N14TK01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Week14OOP\N14TK01\obj\Debug\net8.0\N14TK01.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Week14OOP\N14TK01\obj\Debug\net8.0\N14TK01.AssemblyInfo.cs
+C:\Users\manni\source\repos\Week14OOP\N14TK01\obj\Debug\net8.0\N14TK01.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Week14OOP\N14TK01\obj\Debug\net8.0\N14TK01.dll
+C:\Users\manni\source\repos\Week14OOP\N14TK01\obj\Debug\net8.0\refint\N14TK01.dll
+C:\Users\manni\source\repos\Week14OOP\N14TK01\obj\Debug\net8.0\N14TK01.pdb
+C:\Users\manni\source\repos\Week14OOP\N14TK01\obj\Debug\net8.0\N14TK01.genruntimeconfig.cache
+C:\Users\manni\source\repos\Week14OOP\N14TK01\obj\Debug\net8.0\ref\N14TK01.dll
